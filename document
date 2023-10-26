@@ -1,0 +1,14 @@
+<!-- shopping cart -->
+
+
+
+
+    the shopping cart should properly multiply the final cost of each product in the cart by multiplying the product price by the quantity.
+    the shopping cart should properly add the final cost of each product in the cart.
+    the shopping cart should properly add the value of tax of the sum of costs of products in the cart.
+    the shopping cart should allow a shopper to checkout as a guest.
+    the shopping cart should allow a shopper to log in if they have an account.
+    the shopping cart should allow a shopper to sign up for an account if they do not have an account and wish to create one.
+    the shopping cart should log in the shopper after the creation of an account.
+    the shopping cart data should persist if the shopper goes from a guest to a logged in shopper.
+    the shopping cart should not allow a shopper to check out if the cart is empty.
